@@ -14,8 +14,9 @@ import "fmt"
 
 Languages := "HTML, CSS, JavaScript, PHP, Go"
 Databases := "SQLite, MySQL (PDO), PostgreSQL"
-AreasOfExpertise := "Backend architecture, RESTful APIs, database design, full‑stack development"
+AreasOfExpertise := "Backend architecture, RESTful APIs, websocket, database design, full‑stack development"
 fmt.Println("Demolition's TechStack -> \n" , Languages , "\n" , Databases , "\n" , AreasOfExpertise )
+/* 3 Years Backend Coding */
 ```
 
 ### 📫 Let's connect
