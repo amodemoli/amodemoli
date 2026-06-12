@@ -12,10 +12,10 @@ My recent interest lies in the intersection of blockchain and traditional web �
 ```go
 import "fmt"
 
-Languages := "HTML, CSS, JavaScript, PHP, Go"
-Databases := "SQLite, MySQL (PDO), PostgreSQL"
-AreasOfExpertise := "Backend architecture, RESTful APIs, websocket, database design, full‑stack development"
-fmt.Println("Demolition's TechStack -> \n" , Languages , "\n" , Databases , "\n" , AreasOfExpertise )
+languages := "HTML, CSS, JavaScript, PHP, Go"
+databases := "SQLite, MySQL (PDO), PostgreSQL"
+areasOfExpertise := "Backend architecture, RESTful APIs, websocket, database design, full‑stack development"
+fmt.Printf("Demolition's TechStack: %s , %s , %s \n" , languages , databases , areasOfExpertise)
 /* Golang Engineer • Web2 */
 ```
 
