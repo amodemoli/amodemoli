@@ -15,8 +15,8 @@ import "fmt"
 languages := "HTML, CSS, JavaScript, PHP, Go"
 databases := "SQLite, MySQL (PDO), PostgreSQL"
 areasOfExpertise := "Backend architecture, RESTful APIs, websocket, database design, full‑stack development"
-fmt.Printf("Demolition's TechStack: %s , %s , %s \n" , languages , databases , areasOfExpertise)
-/* Golang Engineer • Web2 */
+fmt.Printf("Demolition's TechStack: %s , %s , %s \n", languages, databases, areasOfExpertise)
+/* Golang Engineer • Backend */
 ```
 
 ### 📫 Let's connect
