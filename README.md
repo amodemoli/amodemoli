@@ -13,10 +13,10 @@ My recent interest lies in the intersection of blockchain and traditional web �
 import "fmt"
 
 languages := "HTML, CSS, JavaScript, PHP, Go"
-databases := "SQLite, MySQL (PDO), PostgreSQL"
+databases := "SQLite, MySQL (PDO), PostgreSQL, Redis"
 areasOfExpertise := "Backend architecture, RESTful APIs, websocket, fasthttp, full‑stack development"
 fmt.Printf("Demolition's TechStack: %s , %s , %s \n", languages, databases, areasOfExpertise)
-/* Golang Engineer • Backend */
+/* Software Engineer • Backend */
 ```
 
 ### 📫 Let's connect
