@@ -12,9 +12,9 @@ My recent interest lies in the intersection of blockchain and traditional web �
 ```go
 import "fmt"
 
-languages := "HTML, CSS, JavaScript, PHP, Go"
+languages := "Cpp, PHP, Go"
 databases := "SQLite, MySQL (PDO), PostgreSQL, Redis"
-areasOfExpertise := "Backend architecture, RESTful APIs, websocket, fasthttp, full‑stack development"
+areasOfExpertise := "Backend architecture, RESTful APIs, websocket, fasthttp, microservice"
 fmt.Printf("Demolition's TechStack: %s , %s , %s \n", languages, databases, areasOfExpertise)
 /* Software Engineer • Backend */
 ```
